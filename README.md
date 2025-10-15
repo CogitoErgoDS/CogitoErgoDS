@@ -33,16 +33,18 @@ My background bridges **academic research (DIW Berlin, IAB)** and **data-driven 
 ---
 ## 💡 Recent Projects
 
-### 🧩 RSNA Lumbar Spine Degeneration (Kaggle Competition)
-Participation in a Kaggle competition on MRI-based classification of degenerative lumbar spine conditions.  
-Developed a **ResNet-50 transfer learning model** to identify and grade spinal damage (e.g., foraminal narrowing, canal stenosis).  
-The project was completed as part of my **Data Science training**, combining applied ML and medical imaging.
+🧩 Classification of Lumbar Spine Damages (Kaggle Competition)
 
-- **Dataset:** RSNA Lumbar Spine Challenge (Radiological Society of North America)  
-- **Focus:** Left Neural Foraminal Narrowing (L5/S1)  
-- **Accuracy:** ~85 % (vs. 35 % baseline)  
-- 🔗 [Project Repository](https://github.com/CogitoErgoDS/Lumbar-Spine-Classification)  
-- 🌐 [GitHub Pages Landing Page](https://cogitoergods.github.io/Lumbar-Spine-Classification/) *(coming soon)*
+Deep learning project using **ResNet-50** to classify degenerative lumbar spine conditions from MRI scans.  
+Implemented an **image-skipping mechanism** to automatically detect relevant slices, improving efficiency and interpretability.  
+The model identifies the presence and severity of **disc herniation (protrusion)** and other degenerative changes.
+
+**Dataset:** RSNA Lumbar Spine Challenge  
+**Focus:** Foraminal narrowing and canal stenosis (L4/L5, L5/S1)  
+**Model accuracy:** ~85 % (vs. ~35 % baseline)  
+🔗 [Project Repository](#)  
+🌐 GitHub Pages Landing Page *(coming soon)*
+
 
 
 ### 🧭 Evidence-based Policy Evaluation
