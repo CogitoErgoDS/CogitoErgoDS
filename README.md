@@ -27,7 +27,8 @@ My background bridges **academic research (DIW Berlin, IAB)** and **data-driven 
 - BMAS/IAB – *RehaPro*: Causal impact evaluation of rehabilitation programs  
 - BMAS/IAB – *SGB-II Typology*: Regression + Cluster analysis for job-center benchmarking  
 - BMAS/IAB – *LTA IS1*: Effects of rehabilitation measures on labor-market integration  
-- BMAS/IAB – *Marginal Employment (LABOUR 2017)*: Dynamic PSM; evidence on stepping-stone vs. lock-in effects  
+- BMAS/IAB – *Marginal Employment (LABOUR 2017)*: Dynamic PSM; evidence on stepping-stone vs. lock-in effects
+- **Brücker, H.; Liebig, S.; Goebel, J.; Grabka, M. M.; Schröder, C.; Zinn, S.; Bartels, C.; Fedorets, A.; Franken, A.; Gerike, M.; **Schmelzer, P.**; … (2024).** *IAB-SOEP Migration Sample Survey Data – Version 1322 v1*.  
 
 ---
 ## 💡 Recent Projects
