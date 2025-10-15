@@ -42,7 +42,7 @@ The model identifies the presence and severity of **disc herniation (protrusion)
 **Dataset:** RSNA Lumbar Spine Challenge  
 **Focus:** Foraminal narrowing and canal stenosis (L4/L5, L5/S1)  
 **Model accuracy:** ~85 % (vs. ~35 % baseline)  
-🔗 [Project Repository](#)  
+🔗 [Project Repository](https://github.com/CogitoErgoDS/Lumbar-Spine-Classification)
 🌐 GitHub Pages Landing Page *(coming soon)*
 
 
