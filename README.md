@@ -71,51 +71,13 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 
 ## 📚 Publications & Policy Studies (Selection)
 
-### 🧾 Academic Publications
+## 📚 Selected Publications
 
-- **Schmelzer, P., Gundert, S. & Hohendanner, C. (2015).** *Qualifikationsspezifische Übergänge aus befristeter Beschäftigung am Erwerbsanfang – zwischen Screening und Flexibilisierung.*  
-  *Kölner Zeitschrift für Soziologie und Sozialpsychologie (KZfSS).*  
-  Examines early career transitions from temporary to permanent contracts. Shows that dual vocational graduates have the best chances for internal conversion, while low-qualified workers face persistent precarity.
+- *Consequences of Overeducation among Career Starters in Germany* (European Sociological Review, 2020)  
+- *Marginal Employment for Welfare Recipients: Stepping Stone or Obstacle?* (LABOUR, 2017)  
+- *Late Careers and Income Dynamics among the Elderly in Great Britain* (Ageing & Society, 2023)
 
-- **Schmelzer, P. (2012).** *Indirect and Direct Job Mobility in Germany – Consequences of Job Mobility for Subsequent Earnings at the Beginning of the Employment Career.*  
-  *European Sociological Review.*  
-  Analyzes income effects of direct versus indirect job changes. Finds that unemployment during early careers leads to long-term wage losses of 7–9 %.
-
-- **Schmelzer, P. (2011).** *Unemployment: a trap or stepping stone?*  
-  *Acta Sociologica.*  
-  Investigates the effects of early-career unemployment in the UK. Concludes that joblessness can be a stepping stone for graduates but acts as a trap for the low-skilled.
-
-- **Schmelzer, P. & Hamjediers, M. (2022).** *Marriage, the Risk of Overeducation, and Selection into Both. Evidence from Germany.*  
-  *European Sociological Review.*  
-  Explores the link between marital status and overeducation. Marriage reduces overqualification risk for both men and women once selection into marriage is accounted for.
-
-- **Schmelzer, P. & Schneider, S. (2020).** *Consequences of Overeducation among Career Starters in Germany.*  
-  *European Sociological Review.*  
-  Tests whether overeducation is temporary or permanent. Finds that most mismatched workers remain overqualified for years, especially graduates.
-
-- **Lietzmann, T., Schmelzer, P. & Wiemers, J. (2017).** *Marginal employment for welfare recipients: stepping stone or obstacle?*  
-  *LABOUR.*  
-  Evaluates whether marginal employment helps welfare recipients integrate into regular jobs. Late entry increases integration chances by 10–20 %, while early entry creates lock-in effects.
-
- - **Schmelzer, P. (2011).** *Consequences of Job Mobility for the Subsequent Earnings at the Beginning of the Employment Career in Germany and the UK.*  
-  *Schmollers Jahrbuch.*  
-  Compares Germany and the UK. Direct (voluntary) job mobility improves wages in both countries; unemployment spells cause lasting losses, especially in Germany.
-
-- **Schmelzer, P. (2023).** *Late careers and income dynamics among the elderly: increasing income inequalities in Great Britain?*  
-  *Ageing & Society.*  
-  Shows that pension reforms and labor-market changes have widened income gaps among older workers, increasing the risk of poverty in lower qualification groups.
-
-- **Raab, M., Ruland, M., Scholz, W., Müller-Siebers, K. & Schmelzer, P. (2008).** *GlobalIndex: A Sociological Approach to Globalization Measurement.*  
-  *International Sociology.*  
-  Proposes a multidimensional index that captures economic, cultural, and political dimensions of globalization, outperforming one-dimensional economic indicators.
-
-- **Schmelzer, P., Kurz, K. & Schulze, A.** *Einkommensnachteile von Müttern im Vergleich zu kinderlosen Frauen in Deutschland (SOEP 1984–2011).*  
-  *Manuskript.*  
-  Examines motherhood wage penalties. Finds that long career breaks and part-time return cause wage losses up to 20 %.
-
-- **Schmelzer, P. et al. (2013).** *Varieties of wage mobility in early career in Europe.*  
-  *European Sociological Review.*  
-  Cross-national comparison across eight countries. Direct mobility yields wage gains; unemployment leads to losses mainly in coordinated market economies.
+📘 [Full publication list →](https://github.com/CogitoErgoDS/Publication-List)
 
 ---
 
