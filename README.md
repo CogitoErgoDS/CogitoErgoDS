@@ -76,6 +76,7 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 - *Consequences of Overeducation among Career Starters in Germany* (European Sociological Review, 2020)  
 - *Marginal Employment for Welfare Recipients: Stepping Stone or Obstacle?* (LABOUR, 2017)  
 - *Late Careers and Income Dynamics among the Elderly in Great Britain* (Ageing & Society, 2023)
+- *GlobalIndex: Approach to Globalization Measurement* (International Sociology, 2008) 
   
 ### 📚 Full Publication List
 
@@ -84,15 +85,7 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 
 #### 👀 Im Browser ansehen
 [🔎 View on GitHub](https://github.com/CogitoErgoDS/Publication-List/blob/main/Publikationsliste.pdf)
-
-
-## 📘 Publications
-
-**Schnellzugriff:**
-- [⬇️ Download Publikationsliste (PDF)](https://github.com/CogitoErgoDS/Publication-List/raw/main/Publikationsliste.pdf)
-- [🔎 Im Browser ansehen](https://github.com/CogitoErgoDS/Publication-List/blob/main/Publikationsliste.pdf)
-
-**Ordner:** [`Publication-List/`](./Publication-List/)
+ 
 
 
 ---
