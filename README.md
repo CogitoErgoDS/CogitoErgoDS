@@ -85,6 +85,16 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 #### 👀 Im Browser ansehen
 [🔎 View on GitHub](https://github.com/CogitoErgoDS/Publication-List/blob/main/Publikationsliste.pdf)
 
+
+## 📘 Publications
+
+**Schnellzugriff:**
+- [⬇️ Download Publikationsliste (PDF)](https://github.com/CogitoErgoDS/Publication-List/raw/main/Publikationsliste.pdf)
+- [🔎 Im Browser ansehen](https://github.com/CogitoErgoDS/Publication-List/blob/main/Publikationsliste.pdf)
+
+**Ordner:** [`Publication-List/`](./Publication-List/)
+
+
 ---
 
 
