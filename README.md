@@ -10,11 +10,12 @@ My background bridges **academic research (DIW Berlin, IAB)** and **data-driven 
 
 ## 🧠 Expertise
 
-- **Statistical Modeling & Econometrics:** GLMM, GAM, Panel & Survival Models, Propensity Score Matching, Counterfactual Designs  
-- **Machine Learning & AI:** Tree-based models, CNNs, Deep Learning (TensorFlow, Keras, PyTorch)  
-- **Data Pipelines & Cloud:** Python, SQL, AWS (EC2, S3, SageMaker), Git/MLflow  
-- **Visualization & Reporting:** Power BI, Matplotlib  
-- **Health Economics:** Cost-effectiveness analysis, evaluation of digital health & prevention programs  
+- **Statistical Modeling & Econometrics:** GLMM, GAM, Panel & Survival Models, PCA/PLS, Propensity Score Matching, Selection Models, Counterfactual Designs  
+- **Machine Learning & AI:** Tree-Based Models (Random Forests, Gradient Boosting), SVMs, CNNs, Deep Learning (TensorFlow, Keras, PyTorch), Clustering & Dimensionality Reduction  
+- **Data Pipelines & Cloud:** Python, Stata, SQL, SPSS, AWS (EC2, S3, SageMaker), Git/MLflow, Jupyter, Pandas, Scikit-Learn  
+- **Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Dashboards & KPI-based Evaluation  
+- **Health Economics:** Cost-effectiveness & cost-utility analysis, evaluation of digital health and prevention programs, GKV system & reimbursement mechanisms  
+
 
 ---
 
