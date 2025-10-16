@@ -63,10 +63,6 @@ Findings linked **poor recycling quality** to **tourism-heavy areas** and **youn
 🌐 GitHub Pages Landing Page *(coming soon)*
 
 
-
-### 🧭 Evidence-based Policy Evaluation
-Development of typologies and causal models for the **BMAS/IAB** to improve transparency and benchmarking of job-center performance.
-
 ### 🩺 Health Economics & Digital Prevention
 Ongoing training in **Health Economics (IU International University, since 2025)** — focus on the GKV system, budget negotiations, and evaluation of digital prevention programs.
 
