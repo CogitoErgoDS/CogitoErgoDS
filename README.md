@@ -33,16 +33,30 @@ My background bridges **academic research (DIW Berlin, IAB)** and **data-driven 
 ---
 ## 💡 Recent Projects
 
-🧩 Classification of Lumbar Spine Damages (Kaggle Competition)
+### 🧩 Lumbar Spine Classification (Kaggle Competition)
+Deep-learning project applying **ResNet-50** to classify degenerative spinal conditions from MRI scans.  
+Included an image-selection routine to automatically detect relevant slices, improving efficiency and interpretability.  
 
-Deep learning project using **ResNet-50** to classify degenerative lumbar spine conditions from MRI scans.  
-Implemented an **image-skipping mechanism** to automatically detect relevant slices, improving efficiency and interpretability.  
-The model identifies the presence and severity of **disc herniation (protrusion)** and other degenerative changes.
-
-**Dataset:** RSNA Lumbar Spine Challenge  
-**Focus:** Foraminal narrowing and canal stenosis (L4/L5, L5/S1)  
-**Model accuracy:** ~85 % (vs. ~35 % baseline)  
+**Dataset:** RSNA 2024 Lumbar Spine Challenge  
+**Focus:** Foraminal narrowing & canal stenosis (L4/L5, L5/S1)  
+**Model accuracy:** ≈ 85 % (vs. 35 % baseline)  
 🔗 [Project README](https://github.com/CogitoErgoDS/Spine_Degenerative_Classification#readme)
+
+---
+
+### 🕶️ Vistachic S.L. – Sales Forecasting & Product Analytics (2022–2024)
+At **Vistachic S.L.**, I analyzed sales data from retail operations in Spain and France.  
+My work focused on **data cleaning, integration, and forecasting** of product demand across multiple markets.  
+Using **machine learning and econometric models**, I identified key drivers of sales performance — such as frame type, lens color, and material — and forecasted optimal product mixes for upcoming collections.  
+The analyses provided **structured insights for product design and strategic planning**, supporting evidence-based decisions in marketing and logistics.
+
+---
+
+### ♻️ Ecoembes – Recycling Behavior & Data Analysis (2022–2024)
+Joint research project with **Ecoembes** (Spain’s national recycling consortium, supported by Coca-Cola Spain) and **Carlos III University Madrid**.  
+Merged **municipal-level recycling and socioeconomic data** (~8 000 municipalities, 400+ variables) to model regional differences in recycling behavior and container misuse (“impropios”).  
+Applied **regression and clustering methods** to identify high-risk regions and behavioral patterns.  
+Findings linked **poor recycling quality** to **tourism-heavy areas** and **young family households under time stress**, providing **evidence-based recommendations** for policy and behavioral interventions.
 
 
 
