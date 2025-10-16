@@ -95,7 +95,7 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 
 ### 🏛 Policy Reports & Ministerial Studies
 
-- **BMAS/IAB – RehaPro: Zweiter Zwischenbericht (2010 Jahre)**  
+- **BMAS/IAB – RehaPro: Zweiter Zwischenbericht (2010)**  
   Part of the BMAS program “RehaPro.” Provides first quasi-experimental evidence that innovative rehabilitation approaches improve labor-market integration for people with health limitations.
 
 - **BMAS/IAB – LTA IS1: Abschlussbericht (2011)**  
