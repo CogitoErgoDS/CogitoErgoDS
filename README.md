@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Paul Schmelzer
+# 👋 Welcome, I'm Dr. Paul Schmelzer
 
-**Data Scientist | Health Economist | Researcher**
+**Data Scientist · Health Economist · Researcher**
 
-I combine over 20 years of experience in quantitative analysis and policy evaluation with applied machine learning.  
+I hold a PhD in Social and Economic Sciences and bring over 20 years of experience in quantitative analysis, statistical modeling, and policy evaluation.  
 My background bridges **academic research (DIW Berlin, IAB)** and **data-driven projects** in the private sector, focusing on evidence-based decision-making in labor markets, social policy, and health systems.
+
 
 ---
 
