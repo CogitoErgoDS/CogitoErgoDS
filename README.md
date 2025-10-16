@@ -77,7 +77,15 @@ Ongoing training in **Health Economics (IU International University, since 2025)
 - *Marginal Employment for Welfare Recipients: Stepping Stone or Obstacle?* (LABOUR, 2017)  
 - *Late Careers and Income Dynamics among the Elderly in Great Britain* (Ageing & Society, 2023)
   
-📘 [Full publication list →](https://github.com/CogitoErgoDS/Publication-List)
+### 📚 Full Publication List
+
+#### 📥 Direkt-Download (empfohlen)
+[⬇️ Download Publikationsliste (PDF)](https://github.com/CogitoErgoDS/Publication-List/raw/main/Publikationsliste.pdf)
+
+#### 👀 Im Browser ansehen
+[🔎 View on GitHub](https://github.com/CogitoErgoDS/Publication-List/blob/main/Publikationsliste.pdf)
+
+---
 
 
 ---
