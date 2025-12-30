@@ -2,8 +2,12 @@
 
 **Data Scientist · Researcher**
 
-I hold a PhD in Social and Economic Sciences and bring over 20 years of experience in quantitative analysis, statistical modeling, and policy evaluation.  
-My background bridges **academic research (DIW Berlin, IAB)** and **data-driven projects** in the private sector, focusing on evidence-based decision-making in labor markets, social policy, and health systems.
+I hold a PhD in Social and Economic Sciences and bring over **20 years of experience in quantitative analysis, statistical modeling, and policy evaluation**.
+
+My background bridges academic research at the **German Institute for Economic Research (DIW Berlin)** and the **Institute for Employment Research (IAB)**, the research institute of the **Federal Employment Agency**, with **data-driven projects in the private sector**.
+
+I focus on **evidence-based decision-making** in **labor markets**, **social policy**, and **health systems**.
+
 
 
 ---
