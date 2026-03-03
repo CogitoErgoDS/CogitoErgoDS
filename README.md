@@ -50,7 +50,7 @@ Included an image-selection routine to automatically detect relevant slices, imp
 
 ---
 
-### 🕶️ Vistachic S.L. – Sales Forecasting & Product Analytics (2022–2024)
+### 🕶️ Vistachic S.L. – Sales Forecasting & Product Analytics (since 2025)
 At **Vistachic S.L.**, I analyzed sales data from retail operations in Spain and France.  
 My work focused on **data cleaning, integration, and forecasting** of product demand across multiple markets.  
 Using **machine learning and econometric models**, I identified key drivers of sales performance — such as frame type, lens color, and material — and forecasted optimal product mixes for upcoming collections.  
@@ -58,7 +58,7 @@ The analyses provided **structured insights for product design and strategic pla
 
 ---
 
-### ♻️ Ecoembes – Recycling Behavior & Data Analysis (2022–2024)
+### ♻️ Ecoembes – Recycling Behavior & Data Analysis (2022–2025)
 Joint research project with **Ecoembes** (Spain’s national recycling consortium, supported by Coca-Cola Spain) and **Carlos III University Madrid**.  
 Merged **municipal-level recycling and socioeconomic data** (~8 000 municipalities, 400+ variables) to model regional differences in recycling behavior and container misuse (“impropios”).  
 Applied **regression and clustering methods** to identify high-risk regions and behavioral patterns.  
