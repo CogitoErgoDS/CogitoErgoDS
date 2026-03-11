@@ -46,7 +46,7 @@ Included an image-selection routine to automatically detect relevant slices, imp
 **Dataset:** RSNA 2024 Lumbar Spine Challenge  
 **Focus:** Foraminal narrowing & canal stenosis (L4/L5, L5/S1)  
 **Model accuracy:** ≈ 85 % (vs. 35 % baseline)  
-🔗 [Project README](https://github.com/CogitoErgoDS/Spine-Classification-Final#readme)
+* 🔗 **Top Project:** [Lumbar Spine Degenerative Classification](https://github.com/CogitoErgoDS/Spine-Classification-Final#lumbar-spine-degenerative-classification)
 
 ---
 
