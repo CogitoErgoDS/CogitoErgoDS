@@ -53,7 +53,7 @@ Included an image-selection routine to automatically detect relevant slices, imp
 ### 🕶️ Vistachic S.L. – Sales Forecasting & Product Analytics (since 2025)
 At **Vistachic S.L.**, I analyzed sales data from retail operations in Spain and France.  
 My work focused on **data cleaning, integration, and forecasting** of product demand across multiple markets.  
-Using **machine learning and econometric models**, I identified key drivers of sales performance — such as frame type, lens color, and material — and forecasted optimal product mixes for upcoming collections.  
+Using **machine learning and econometric models**, I identified key drivers of sales performance — such as frame type, lens color, and material — and derived data-driven recommendations for optimal product configurations in upcoming collections.  
 The analyses provided **structured insights for product design and strategic planning**, supporting evidence-based decisions in marketing and logistics.
 
 ---
