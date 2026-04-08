@@ -15,7 +15,7 @@ I focus on **evidence-based decision-making** in **labor markets**, **social pol
 ## 🧠 Expertise
 
 - **Statistical Modeling & Econometrics:** GLMM, GAM, Panel & Survival Models, PCA/PLS, Propensity Score Matching, Selection Models, Counterfactual Designs  
-- **Machine Learning & AI:** Tree-Based Models (Random Forests, Gradient Boosting), SVMs, CNNs, Deep Learning (TensorFlow, Keras, PyTorch), Clustering & Dimensionality Reduction  
+- **Machine Learning & AI:** Tree-Based Models (Random Forests, Gradient Boosting), SVMs, CNNs, Deep Learning (TensorFlow, Keras, PyTorch) 
 - **Data Pipelines & Cloud:** Python, Stata, SQL, SPSS, AWS (EC2, S3, SageMaker), Git/MLflow, Jupyter, Pandas, Scikit-Learn  
 - **Visualization & Reporting:** Power BI, Matplotlib, Seaborn, Dashboards & KPI-based Evaluation  
 - **Health Economics:** Cost-effectiveness & cost-utility analysis, evaluation of digital health and prevention programs, GKV system & reimbursement mechanisms  
